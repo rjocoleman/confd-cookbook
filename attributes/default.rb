@@ -1,5 +1,5 @@
-default['confd']['version'] = "0.1.1-beta3"
-default['confd']['sha256'] = "7320b000c9528b03b260a08875d685b42692cad22e5e913132a4e67c44c324b8"
+default['confd']['version'] = "0.1.1-rc2"
+default['confd']['sha256'] = "0b595add7e5b48df9f9fa8445e7e65b50a238ca26faca4a0dd2c6a1b817c5c88"
 
 default['confd']['confdir'] = "/etc/confd"
 default['confd']['interval'] = "600"
