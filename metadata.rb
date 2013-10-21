@@ -4,7 +4,7 @@ maintainer_email 'github@robert.net.nz'
 license          'MIT'
 description      'Installs/Configures confd'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.0'
+version          '0.1.1'
 
 %w{debian ubuntu}.each do |os|
   supports os

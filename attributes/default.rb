@@ -1,5 +1,5 @@
-set['confd']['version'] = "0.1.1-beta"
-set['confd']['sha256'] = "07d569fcd77a0693879842a95b8f2840b82384a5b07281ae111562bd6bcc674e"
+set['confd']['version'] = "0.1.1-beta3"
+set['confd']['sha256'] = "7320b000c9528b03b260a08875d685b42692cad22e5e913132a4e67c44c324b8"
 
 set['confd']['confdir'] = "/etc/confd"
 set['confd']['interval'] = "600"
